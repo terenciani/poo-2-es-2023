@@ -1,18 +1,8 @@
-## Getting Started
+## Exercícios
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+1 - Crie uma função EM JAVA que dado um salário e uma porcentagem de aumento retorne o valor do salário atualizado
 
-## Folder Structure
+2 - Crie um procedimento EM JAVA que imprima os nomes dos tipos de dados/variáveis da linguagem JAVA
 
-The workspace contains two folders by default, where:
+3 - Crie uma função EM JAVA que dado um numero inteiro, retorne a soma de zero até ele.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
