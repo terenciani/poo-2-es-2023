@@ -55,7 +55,3 @@ release.properties
 pom.xml.releaseBackup
 pom.xml.tag
 /bin/
-
-# eclipse project file
-.vscode/
-lib
